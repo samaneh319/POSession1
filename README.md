@@ -209,5 +209,3 @@ Deploy
 * Single Page
 
 * RTL کامل
-
-کاملاً Responsive* 
